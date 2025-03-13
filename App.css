@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  text-align: center; /* Ensures the text is centered */
+  font-size: 2.5rem;  /* Adjust font size as desired */
+  margin-top: 20px;   /* Adds some space above the heading */
+  color: #333;        /* Optional: change color if needed */
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
